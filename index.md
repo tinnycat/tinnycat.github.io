@@ -13,7 +13,7 @@ If you want to use this space to write your biography here, edit the `index.md` 
 
 The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
 
-PS: If you liked the theme, do star it on GitHub
+PS: If you liked the theme, do star it on GitHub!
 
 ### Also, check out:
 
