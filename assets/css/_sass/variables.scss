@@ -1,22 +1,22 @@
 $base-font-family: 'Work Sans', sans-serif;
-$base-font-size:   20px;
+$base-font-size: 20px;
 $base-font-weight: 400;
-$small-font-size:  $base-font-size * 0.875;
+$small-font-size: $base-font-size * 0.875;
 $base-line-height: 1.7;
 
-$spacing-unit:     30px;
+$spacing-unit: 30px;
 $light-gray: gray;
-$text-color:       #333;
+$text-color: #333;
 $background-color: #fdfdfd;
-$brand-color:      #60c17d;
-$projectbox-text:  #1e2126;
+$brand-color: #B4CC7C;
+$projectbox-text: #7860B2;
 
 // Color scheme for light
-$body-bg: #fdfdfd;
-$projectbox: #c3e1c9;
-$text-color: #333;
+$body-bg: #4B3E56;
+$projectbox: #F6EAF5;
+$text-color: #F6EAF5;
 
 // Color scheme for dark modes
-$body-bg-dark: #23272d;
-$projectbox-dark: lighten(#98a0ac, 2%);
-$text-color-dark: #98a0ac;
+$body-bg-dark: #4B3E56;
+$projectbox-dark: lighten(#F6EAF5, 2%);
+$text-color-dark: #F6EAF5;

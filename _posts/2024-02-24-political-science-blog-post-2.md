@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Political Science Blog Post 1
+title: Political Science Blog Post 2
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis convallis mi nec magna viverra pharetra. Donec non lectus ultrices nisi euismod dignissim commodo vel risus. Cras blandit venenatis tellus, sed scelerisque enim ornare in. Maecenas ac tempus orci. 
