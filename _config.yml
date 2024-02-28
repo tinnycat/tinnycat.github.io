@@ -3,7 +3,7 @@
 title: Hannah Cake
 description: PhD Student | University of Kentucky Political Science
 
-baseurl: tinnycat.github.io #name of GitHub repository
+baseurl: #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: "hannah.cake@uky.edu" #
 
